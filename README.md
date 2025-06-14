@@ -1,7 +1,7 @@
 # Hi there, I'm Sai Charan Nukala 👋
 
 <div align="center">
-  <img src="https://github.com/Saicharan-nukala/Saicharan-nukala/blob/main/profile-pic.jpg" alt="Sai Charan Nukala" width="200" style="border-radius: 50%;" />
+  <img src="https://github.com/Saicharan-nukala/Saicharan-nukala/blob/main/profi-pic.jpg" alt="Sai Charan Nukala" width="200" style="border-radius: 50%;" />
 </div>
 
 <div align="center">
