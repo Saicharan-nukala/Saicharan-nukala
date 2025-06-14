@@ -129,31 +129,7 @@ A revolutionary platform connecting learners and experts for skill exchange and 
 | **MongoDB University** | Associate Developer with Node.js | Certified ✅ | 2024 |
 | **IBM SkillsBuild** | Machine Learning & Data Analytics | Certified ✅ | 2024 |
 
-</div>
 
-## 📈 What I'm Learning
-
-<div align="center">
-
-```javascript
-const currentlyLearning = {
-    backend: ["Microservices", "Docker", "Kubernetes"],
-    cloud: ["AWS", "Azure", "Google Cloud Platform"],
-    ai_ml: ["Deep Learning", "Neural Networks", "TensorFlow"],
-    mobile: ["React Native", "Kotlin", "Swift"],
-    web3: ["Blockchain", "Smart Contracts", "Web3.js"]
-};
-
-const goals2025 = [
-    "Launch SkillSwap platform",
-    "Contribute to 10+ open source projects",
-    "Build AI-powered applications",
-    "Master cloud architecture",
-    "Mentor junior developers"
-];
-```
-
-</div>
 
 ## 🤝 Let's Connect & Collaborate!
 
@@ -184,15 +160,7 @@ I'm always excited to collaborate on innovative projects and connect with fellow
 
 </div>
 
-## 🎯 Fun Facts
 
-- 🎮 I debug code better after a good cup of chai ☕
-- 🚀 I believe in "code, coffee, repeat" philosophy
-- 🌟 My first Hello World was in C++ during my school days
-- 🎨 I love creating pixel-perfect UIs that users actually enjoy using
-- 🤝 I'm passionate about making technology accessible to everyone through education
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
