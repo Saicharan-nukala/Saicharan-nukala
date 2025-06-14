@@ -180,7 +180,7 @@ A revolutionary platform connecting learners and experts for skill exchange and 
 |-------------|---------|-------------|------|
 | **SRM University AP** | BTech Computer Science | CGPA: 9.36 | 2022 - Present |
 | **Narayana Junior College** | Intermediate (MPC) | GPA: 9.49 | 2020 - 2022 |
-
+| **MongoDB University** | MongoDB Associate Developer with NodeJS | Certified | 2025 |
 **Certifications:**
 MongoDB Associate Developer • IBM SkillsBuild ML & Data Analytics
 
